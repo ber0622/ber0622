@@ -2,11 +2,10 @@
 
 
 - 📫 How to reach me: bernmuturi@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on ALX Software engineering <br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Python 🤗
+🔭 I’m currently working on ALX Software engineering <br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning R and Python 🤗
 
 
 ## 🌐 Socials:
